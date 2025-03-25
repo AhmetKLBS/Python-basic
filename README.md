@@ -1,2 +1,2 @@
 #Python Basic
-This project waas developed Python's libararys pygame zero. 
+This project was developed using Python's library pygame zero. 
